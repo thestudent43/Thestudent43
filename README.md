@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**thestudent43/Thestudent43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kichuuu**, a passionate developer who loves building web and mobile apps.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Python
+- Database: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+- [Portfolio](https://your-portfolio.com)
+- [Twitter](https://x.com/SayzDraft?t=3ePbE4t1xnkM26FJmZzq_A&s=09)
+- [LinkedIn](https://linkedin.com/in/Kichuu43)
